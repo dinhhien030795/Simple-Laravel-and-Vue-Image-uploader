@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "mix",
+        "watch": "mix watch",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.8",
+        "axios": "^0.27",
+        "filepond-plugin-file-validate-type": "^1.2.8",
+        "laravel-mix": "^6.0.49",
+        "laravel-vite-plugin": "^0.6.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.4.16",
+        "tailwindcss": "^3.1.8",
+        "vite": "^3.0.0",
+        "vue": "^3.2.38",
+        "vue-loader": "^16.8.3"
+    },
+    "dependencies": {
+        "filepond": "^4.30.4",
+        "filepond-plugin-file-validate-size": "^2.2.7",
+        "vue-filepond": "^7.0.3"
+    }
+}
